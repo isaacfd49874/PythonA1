@@ -1,0 +1,2 @@
+staff_id,name,email,role,password,is_active,created_at
+T001,Bob Staff,bob.staff@example.edu,clerk,staff123,1,2025-11-18 19:56:33

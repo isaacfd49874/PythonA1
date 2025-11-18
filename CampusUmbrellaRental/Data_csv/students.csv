@@ -1,0 +1,2 @@
+sid,name,email,password,is_active,created_at
+S123456,Alice Student,alice.student@example.edu,student123,1,2025-11-18 19:56:33
